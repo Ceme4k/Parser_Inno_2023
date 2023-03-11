@@ -1,4 +1,5 @@
 print("Hello World")
+print("hi")
 
 age = int(input(""))
 print(f"")
